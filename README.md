@@ -153,13 +153,6 @@ After EDA, SQL was used to perform healthcare-related queries and extract import
 ![SQL Query 2](Query-Screenshots/Screenshot%202026-05-21%20011116.png)
 
 
-
-### 📌 Treatment Cost Analysis Query
-
-![SQL Query 3](Query-Screenshots/Screenshot%202026-05-21%200111147.png)
-
-
-
 ### 📌 Readmission & Age Group Query
 
 ![SQL Query 4](Query-Screenshots/Screenshot%202026-05-21%20011211.png)
